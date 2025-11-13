@@ -9,11 +9,10 @@ function App() {
     <>
   
       <div>
-        <Home  />
+        <Home />
       </div>
     </>
   )
 }
 
 export default App
-
